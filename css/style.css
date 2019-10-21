@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Shadows+Into+Light&display=swap');
+
+body {
+  background-image: url("/images/air_jordan.jpg");
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 18pt;
+  font-family: 'Caveat', cursive;
+}
+
+p {
+  color: #A000EB;
+  background-color: yellow;
+  display: inline;
+}
+
+/* visited link */
+  a:visited {
+      color: green;
+    }
+
+/* mouse over link */
+  a:hover {
+      color: hotpink;
+    }
+
+  /* selected link */
+    a:active {
+      color: blue;
+    }
